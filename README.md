@@ -17,5 +17,5 @@ Animals (I know):
 - Tiger (Panthera tigris)
 
 Others:
-- Computer
-- Folder
+- Computer (Computing)
+- Folder (Folds)
