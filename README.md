@@ -9,7 +9,7 @@ What does it mean?
 - Others (What it does)
 
 Animals (I know):
-- Dog (Canis lupus familiaris)
+- Dog (DOG?)
 - Cat (Felis catus)
 - Cow (Bos taurus)
 - Pig (Sus)
